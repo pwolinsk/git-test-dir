@@ -1,1 +1,2 @@
-Mars is red, really red.
+Mars is red, really red.'
+It sure is.
